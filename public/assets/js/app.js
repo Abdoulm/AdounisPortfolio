@@ -223,7 +223,7 @@ let footer = $(`
             </div>
           </div>
         </div>
-        <script src="https://smtpjs.com/v3/smtp.js%22%3E"</script>
+        <script src="https://smtpjs.com/v3/smtp.js"></script> 
     </div>
 
     
